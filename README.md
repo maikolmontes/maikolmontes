@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate student in Computer Science and Engineering, with strong skills in programming languages such as TypeScript, Java, Angular, PHP, CSS, Python, JavaScript, HTML, and Shell. I am passionate about continuous learning and developing innovative, productive, and creative solutions that make a positive impact in the tech world..
+I am an undergraduate student in Computer Science and Engineering, with strong skills in programming languages such as TypeScript, Java, Angular, PHP, CSS, Python, JavaScript, HTML. I am passionate about continuous learning and developing innovative, productive, and creative solutions that make a positive impact in the tech world..
 * **I am interested in web development, mobile development, and with a growing interest in cybersecurity.**
 - 🏆 I’ve earned certifications and achieved 1st and 3rd place in programming marathons.
 - 🌱 I’m currently learning Nest js,  React js to expand my full-stack development skills.
