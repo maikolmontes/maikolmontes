@@ -11,7 +11,7 @@ I am an undergraduate student in Computer Science and Engineering, with strong s
 - ✔ Feel free to ask me anything — if it’s in my field, I’ll be happy to help! 😉<br>
 - 📫 You can reach me at: montenegromaikol4@gmail.com
 
-- ## My Skills Include
+## My Skills Include
 
 <h4> Languages </h4>
 <span> 
